@@ -1,4 +1,4 @@
-,Province/State,Country,Date last updated,Confirmed,Suspected,Recovered,Deaths
+RowNum,Province/State,Country,Date last updated,Confirmed,Suspected,Recovered,Deaths
 0,Shanghai,Mainland China,1/21/2020,9.0,10.0,0.0,0.0
 1,Yunnan,Mainland China,1/21/2020,1.0,0.0,0.0,0.0
 2,Beijing,Mainland China,1/21/2020,10.0,0.0,0.0,0.0
